@@ -1,0 +1,2 @@
+# lucky2
+test
